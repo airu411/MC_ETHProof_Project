@@ -35,6 +35,14 @@ After deploying, you can add values and addresses to `mint` and `burn`
 
 ![image](https://github.com/airu411/MC_ETHProof_Project/assets/159874160/1b13eb28-0982-4e52-a622-83b66f32526a)
 
+## Help
+
+If you encounter any problems or issues, you may check the official documentation at:
+
+`Solidity v0.8.18 - https://docs.soliditylang.org/en/v0.8.18/`
+
+The code uses this version (0.8.18) of Solidity and may not work as intended with other versions. It would be best to also use 
+this version by specifying it through using `pragma` at the beginning of your file. 
 
 ## Author
 
