@@ -42,7 +42,7 @@ If you encounter any problems or issues, you may check the official documentatio
 `Solidity v0.8.18 - https://docs.soliditylang.org/en/v0.8.18/`
 
 The code uses this version (0.8.18) of Solidity and may not work as intended with other versions. It would be best to also use 
-this version by specifying it through using `pragma solidity 0.8.18` at the beginning of your file. 
+this version by keeping the `pragma solidity 0.8.18` as is at the beginning of the file. 
 
 ## Author
 
