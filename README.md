@@ -29,7 +29,7 @@ When you have found it, click on `Deploy`.
 ### How to Use
 
 After deploying, you can add values and addresses to `mint` and `burn`
-(as shown in the screenshots below) to test if the project is working properly. 
+(as shown in the screenshots below) and then clicking on `transact` to test if the project is working properly. 
 
 ![image](https://github.com/airu411/MC_ETHProof_Project/assets/159874160/f0a70861-207e-43f9-a509-19d037b2bee3)
 
